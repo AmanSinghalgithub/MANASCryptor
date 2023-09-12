@@ -3,7 +3,7 @@ File Encryption Software
 Key Features
 <h1 align="center">
   <br>
-  <img src="./Assets/logo1.png" alt="CrypTor" width="200">
+  <img src="Crpto.png" alt="CrypTor" width="200">
   <br>
 </h1>
 
